@@ -1,0 +1,1 @@
+python.exe .\tools\configure.py --output-directory C:\Users\ruicraveiro\Desktop\D -"DDUK_USE_EXEC_TIMEOUT_CHECK(udata)"="(request_has_timedout(udata))" -DDUK_USE_INTERRUPT_COUNTER --fixup-line="int request_has_timedout(void* u_data);"
